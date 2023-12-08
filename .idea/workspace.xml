@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02e518cf-c31a-4460-81dd-a89eaa9d9f0b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/security-zipped/security-test2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/security-zipped/security.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/HtmlRouteController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/project/config/SetupDevUsers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/project/course/api/CourseController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/project/course/dto/CourseRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/project/course/dto/CourseResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/project/course/entity/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/project/course/repository/CourseRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/project/course/service/CourseService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/project/emailSender/EmailSender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/project/emailSender/EmailSenderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/project/testimonial/api/TestimonialController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/project/testimonial/dto/TestimonialRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/project/testimonial/dto/TestimonialResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/project/testimonial/entity/Testimonial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/project/testimonial/repository/TestimonialRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/project/testimonial/service/TestimonialService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/security/IMPORTANT_README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/security/api/AuthenticationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/security/api/UserWithRoleController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/security/config/CorsConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/security/config/SecurityConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/security/dto/LoginRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/security/dto/LoginResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/security/dto/UserWithRolesRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/security/dto/UserWithRolesResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/security/entity/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/security/entity/UserWithRoles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/security/error/CustomOAuth2AccessDeniedHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/security/error/CustomOAuth2AuthenticationEntryPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/security/for_security_tests/ControllerToTestRoles.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/security/for_security_tests/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/security/repository/UserWithRolesRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/security/service/UserDetailsServiceImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/java/dat3/security/service/UserWithRolesService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/34000.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/36000.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/737 typerating.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/787 typerating.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/Alper.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/Course 219.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/IMG_7470.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/P1010126.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/P1010320.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/P1010350.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/P1010351.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/P1010451.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/P1010465.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/P1010992.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/Profile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/STA 737.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/STA A320.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/STA FULL LOGO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/STA logo all.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/Throttel.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/a320 typerating.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/airbus320.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/b777 typerating.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/cockpit.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/contactimage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/horizon.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/kunstig horisont.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/logo-facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/logo-instagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/logo-linkedin.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/lys.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/menu-outline.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/stalogo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/sunglasses.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/billeder/valuesicons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/css/general/content.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/css/general/footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/css/general/general.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/css/general/navbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/css/pages/about/about.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/css/pages/contact/contact.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/css/pages/index/clients.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/css/pages/index/courses.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/css/pages/index/services.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/css/pages/index/testimonials.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/css/pages/lpc/lpc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/css/pages/sfitri/sfitri.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/css/pages/typerating/typeratings.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/html/elements/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/html/elements/navbar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/html/pages/about/about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/html/pages/contact/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/html/pages/contact/privacypolicy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/html/pages/courseContact/courseContact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/html/pages/index/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/html/pages/lpc/lpc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/html/pages/sfitri/sfitri.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/html/pages/typerating/a320.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/html/pages/typerating/b737.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/html/pages/typerating/b777.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/html/pages/typerating/b787.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/html/pages/typerating/typerating.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/html/templates/template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/js/contact/contact.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/main/resources/static/js/general/navfooterloader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/test/java/dat3/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/test/java/dat3/project/course/service/CourseServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/test/java/dat3/project/testimonial/service/TestimonialServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/test/java/dat3/security/TestUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/test/java/dat3/security/api/AuthenticationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/test/java/dat3/security/api/AuthorizationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/test/java/dat3/security/api/UserWithRoleControllerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/test/java/dat3/security/service/UserWithRolesServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/STA-Project-Backend-Web-main/src/test/resources/application.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ZGAJIrOjyn8nRDcSA84atuYXqC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/phili/OneDrive/Skrivebord/IntelliJ/Scanditraining"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <envs>
+        <env name="JDBC_DATABASE_URL" value="jdbc:mysql://localhost:3306/project2" />
+        <env name="JDBC_PASSWORD" value="Sommersko2008" />
+        <env name="JDBC_USERNAME" value="root" />
+        <env name="TOKEN_SECRET" value="BKVU9vYCPmhB5ahJcUAvfsknYWPSmZxT" />
+      </envs>
+      <module name="Project-2-backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="dat3.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02e518cf-c31a-4460-81dd-a89eaa9d9f0b" name="Changes" comment="" />
+      <created>1702037968952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702037968952</updated>
+      <workItem from="1702037970471" duration="1157000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
